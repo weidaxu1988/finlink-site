@@ -6,5 +6,27 @@
     <description>Recent content on Finlink Capital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://weidaxu1988.github.io/finlink-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://weidaxu1988.github.io/finlink-site/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weidaxu1988.github.io/finlink-site/about/</guid>
+      <description>Finlink Capital is founded by Chuck Li and David Xu, who are both cofounders of Bitlink Capital, in 2019. We cover a variety of Defi and Cefi projects, especially trading related. Finlink now heavily invests in exchanges, derivatives, fixed income, NFT and etc. Unlike many pure crypto VCs, we utilize our high frequency trading skills to help our portfolios with world-class liquidity from day 1.</description>
+    </item>
+    
+    <item>
+      <title>Profolio</title>
+      <link>https://weidaxu1988.github.io/finlink-site/profolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weidaxu1988.github.io/finlink-site/profolio/</guid>
+      <description>dYdX   The most powerful open trading platform for crypto assets.
+ Notional   A protocol on Ethereum that facilitates fixed-rate, fixed-term crypto asset lending and borrowing through a novel financial instrument called fCash.
+ Injective   Explore unlimited financial markets on Injective’s fast, secure, and fully decentralized layer-2 DEX.
+ Synfuture   Trade Futures. Anything. Anytime.
+ GlobeDX   A crypto derivatives exchange where institutions and consumers transact digital currencies like bitcoin via perpetual futures contracts.</description>
+    </item>
+    
   </channel>
 </rss>

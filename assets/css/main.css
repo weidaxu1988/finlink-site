@@ -696,7 +696,17 @@ input, select, textarea {
 			padding: 0 0 1em 1.5em;
 			top: 0.25em;
 		}
+
+		.image.icon {
+			margin-top: 4px;
+			max-width: 24px;
+			display: block;
+		}
 		
+			.image.icon img {
+				width: 100%;
+			}
+
 		.image.fix {
 			display: block;
 			padding: 0 1.5em 1em 0;
